@@ -1,5 +1,5 @@
 ## Setup
-NOTE: THIS IS FOR LOCALLY SETTING UP THE WEBSITE. THE WEBSITE IS CLOUD HOSTED AT https://firewardentracker-apggb8hzfkfsbjf3.francecentral-01.azurewebsites.net/ (wait a few seconds for the page to load)
+NOTE: THIS IS FOR LOCALLY SETTING UP THE WEBSITE.
 ### Prerequisites
 - Node.js (v18 or later)
 - Azure Cosmos DB account
