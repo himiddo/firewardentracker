@@ -1,7 +1,7 @@
 ## Setup
 NOTE: THIS IS FOR LOCALLY SETTING UP THE WEBSITE.
 ### Prerequisites
-- Node.js (v18 or later)
+- Node.js (v18 or later) (v24 is reccomended)
 - Azure Cosmos DB account
 
 ### Azure Cosmos DB Setup - How to get keys and URL for the .env file
