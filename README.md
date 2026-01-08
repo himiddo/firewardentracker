@@ -1,5 +1,5 @@
 ## Setup
-
+NOTE: THIS IS FOR LOCALLY SETTING UP THE WEBSITE. THE WEBSITE IS CLOUD HOSTED AT https://firewardentracker-apggb8hzfkfsbjf3.francecentral-01.azurewebsites.net/ (wait a few seconds for the page to load)
 ### Prerequisites
 - Node.js (v18 or later)
 - Azure Cosmos DB account
@@ -13,7 +13,7 @@ Get your connection details:
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository (if you install the repository because you do not have git, ignore the first command):
    ```bash
    git clone https://github.com/himiddio/firewardentracker.git
    cd fire-warden-tracker
@@ -40,25 +40,3 @@ Get your connection details:
 5. Open http://localhost:3000 in your browser.
 
 The database and container will be created automatically when the app first runs.
-
-## Project Structure
-
-```
-fire-warden-tracker/
-├── client/                 # React frontend
-│   ├── public/
-│   └── src/
-│       └── components/
-│           ├── Home.js
-│           ├── Dashboard.js
-│           ├── WardenForm.js
-│           └── EditEntry.js
-├── server/                 # Express backend
-│   ├── index.js
-│   ├── config/
-│   │   └── db.js
-│   └── routes/
-│       ├── wardens.js
-│       └── locations.js
-└── package.json
-```
