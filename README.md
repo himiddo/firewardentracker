@@ -1,3 +1,25 @@
+## Fire Warden Tracker for UOW
+Link : https://firewardentracker-apggb8hzfkfsbjf3.francecentral-01.azurewebsites.net/dashboard
+
+## How to use:
+Home Menu:
+Press one of the two buttons on the page to either log your location or view the dashboard (or at the top in the navigation menu)
+
+Log Location:
+Enter your staff number, first name, and surname
+Select current working location from the dropdown
+Click "Log Location" to submit the entry
+
+Dashboard
+See all fire warden locations in real time.
+Use filters to search by name, staff number or location
+View All Entries or Present Day Etnries
+
+Manage Entries in Dashboard
+You can ammend other entries or delete them.
+If you edit an entry, you can change the Staff Number, first name, surname, and location. 
+Press "Update Entry" to save edits.
+
 ## Setup
 NOTE: THIS IS FOR LOCALLY SETTING UP THE WEBSITE.
 ### Prerequisites
