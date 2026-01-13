@@ -147,6 +147,7 @@ router.put('/:id', async (req, res) => {
       first_name,
       surname,
       location,
+      entry_date: getTodayDateString(),
       entry_time: getCurrentTimeString(),
       updated_at: new Date().toISOString()
     };

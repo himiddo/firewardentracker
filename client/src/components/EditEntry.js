@@ -79,7 +79,7 @@ function EditEntry() {
       await axios.put(`/api/wardens/${id}`, formData);
       setMessage({
         type: 'success',
-        text: 'Entry updated successfully! The time has been updated to the current time.'
+        text: 'Entry updated successfully! The date and time have been updated to the current date and time.'
       });
 
       //redirect to dashboard after 2 seconds
@@ -211,8 +211,8 @@ function EditEntry() {
           Note:
         </h4>
         <p style={{ color: 'var(--text-secondary)', margin: 0 }}>
-          When you update this entry, the time will be automatically updated to the current time
-          to reflect when the change was made.
+          When you update this entry, the date and time will be automatically updated to the current
+          date and time to reflect when the change was made.
         </p>
       </div>
     </div>
