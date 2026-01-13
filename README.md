@@ -14,7 +14,7 @@ Select current working location from the dropdown
 Click "Log Location" to submit the entry
 
 
-Dashboard
+Dashboard:
 
 See all fire warden locations in real time.
 
@@ -23,7 +23,7 @@ Use filters to search by name, staff number or location
 View All Entries or Present Day Etnries
 
 
-Manage Entries in Dashboard
+Manage Entries in Dashboard:
 
 You can ammend other entries or delete them.
 
